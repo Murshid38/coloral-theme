@@ -1,0 +1,21 @@
+{
+  "name": "coloral",
+  "displayName": "ColorAL",
+  "description": "A color scheme for AL language",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ColorAL",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ColorAL-color-theme.json"
+      }
+    ]
+  }
+}
